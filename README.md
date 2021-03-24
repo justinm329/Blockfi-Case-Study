@@ -28,21 +28,19 @@ This was the main probelm in the begining however since it has grown and expande
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customer?
 
-*Main customer for this company are the people who own cryptocurrencies. Since there main products are accounts that pay interest on your cryto and you can borrow against your crypto. 
-
-*According to Businessinsider there are around 106 million people who are using cryptocurrencies worldwide. Anybody who owns crypto is able to use Blockfi.
+*Main customer for this company are the people who own cryptocurrencies. Since there main products are accounts that pay interest on your cryto and you can borrow against your crypto. According to Businessinsider there are around 106 million people who are using cryptocurrencies worldwide. Anybody who owns crypto is able to use Blockfi. Once they come out with their credit card they will be able to expand there custoemr base. It will go from someone who has crypto to someone who doesn't need to own any, as long as they have good credit they can get approved.
 
 ### What solution does this company offer that their competitors do not or cannot offer?
 
 * Since Blockfi was the first company to begin the crypto collatorized loans, it has gained an excellent reputation since it first started. They have many investors backing them are are always finding new ways to make there company stand out from the rest. They were the first company to let people use their crypto in an alternative way that just a store of value. Most people who got into crypto use used it in there portfolio or just buy low and sell high to earn gains. Blockfi's main goal was to be able to use the crypto technology as something other than a store of value. So they came up with the idea of collaterized loans backed by users crypto assets. This enables the user to use there crypto in another way that was not initally possible in the early parts of this industry. When Blockfi first started in 2017 there was not a platform to do this so once it picked up in the crypto world people and investors saw the value this could add and have been using and supporting it since.
 
 ### Which technologies are they currently using, how are they implementing them?
-
+Blockfi is currently using cryptocurrencies to help their users earn interest, obtain loans and to buy, sell, or exchange your crypto as well. They are one of the first companies to let clients use their crypto other than a store of value. They currently use the following languages to develop all their programs and website: NGINX, HTML5, PostgreSQL, CSS 3, React, React Native, Amazon EC2, Typescript and Javascript. Using these languages helps give the customer an easy way to navigate their website and give them the most up today information. These languages also help them develop and maintain te products the currently have.
 ## Landscape:
 
 ### What domain of the financial industry is the company in?
 
-* Blockfi is in the financial service and cryptocurrencey domain. Blockfi has only a limited amount of products right now which include a wallet you can deposit crypto in to earn interst, collaterlized crypto loans and an exhange for crypto. They are also planning on releasing a credit card as well which will earn bitcoin with every purchase you make. They are taking the crypto market and developing products that you would normally see at a bank however it is for cryptocurrencies. The credit card will be the first product that comes out that you will not need any crypto to use. 
+* Blockfi is catagorized under the cryptocurrency domain. Blockfi has only a limited amount of products right now which include a wallet you can deposit crypto in to earn interst, collaterlized crypto loans and an exhange for crypto. They are a non-bank lender which offers crypto backed loans to people who own crypto. They are also planning on releasing a credit card as well which will earn bitcoin with every purchase you make. The credit card will be the first product that comes out that you won't need any crypto to use. This will help them expand out of the cryptocurrency market to obtain more clients.
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
