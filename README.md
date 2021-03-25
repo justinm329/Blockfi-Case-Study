@@ -16,18 +16,18 @@ Blockfi has recieved ten rounds of funding which started back in February of 201
 
  ### What specific financial problem is the company or project trying to solve?
 
-* One of the problems the company is trying to solve is helping people to recieve loans in a non traditional way. Instead of going to a bank to apply for a loan, if you have a crypto asset you can use that as collateral for a loan. This is really good for people with terrible credit scores since they do not check FICO scores. It is also great for people who are in parts of the world where it is nearly impossible to get a loan. In Veneszula where there currency is basically worthless getting a loan can be really hard, however if they have crypto they can use it as collateral to obtain USD. They want to have crypto owners have another way to use there asset than just as a store of value. 
+* One of the problems the company is trying to solve is helping people to recieve loans in a non traditional way. Instead of going to a bank to apply for a loan, if you have a crypto asset you can use that as collateral for a loan. This is really good for people with terrible credit scores since they do not check FICO scores. It is also great for people who are in parts of the world where it is nearly impossible to get a loan. In Veneszula where there currency is basically worthless getting a loan is almost impossible, but if they have crypto they can use it as collateral to obtain USD. They want to have crypto owners have another way to use there asset than just as a store of value. 
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customer?
 
-*Main customer for this company are the people who own cryptocurrencies. Since there main products are accounts that pay interest on your cryto and you can borrow against your crypto. According to Businessinsider there are around 106 million people who are using cryptocurrencies worldwide. Anybody who owns crypto is able to use Blockfi. Once they come out with their credit card they will be able to expand there custoemr base. It will go from someone who has crypto to someone who doesn't need to own any, as long as they have good credit they can get approved.
+* The main customer for this company are the people who own cryptocurrencies. Since there main products are accounts that pay interest on your cryto and you can borrow against your crypto. According to Businessinsider there are around 106 million people who are using cryptocurrencies worldwide. Anybody who owns crypto is able to use Blockfi. Once they come out with their credit card they will be able to expand there custoemr base. It will go from someone who has crypto to someone who doesn't need to own any, as long as they have good credit they can get approved.
 
 ### What solution does this company offer that their competitors do not or cannot offer?
 
 * Since Blockfi was the first company to begin the crypto collatorized loans, it has gained an excellent reputation since it first started. They have many investors backing them are are always finding new ways to make there company stand out from the rest. They were the first company to let people use their crypto in an alternative way that just a store of value. Most people who got into crypto use used it in there portfolio or just buy low and sell high to earn gains. Blockfi's main goal was to be able to use the crypto technology as something other than a store of value. So they came up with the idea of collaterized loans backed by users crypto assets. This enables the user to use there crypto in another way that was not initally possible in the early parts of this industry. When Blockfi first started in 2017 there was not a platform to do this so once it picked up in the crypto world people and investors saw the value this could add and have been using and supporting it since.
 
 ### Which technologies are they currently using, how are they implementing them?
-Blockfi is currently using cryptocurrencies to help their users earn interest, obtain loans and to buy, sell, or exchange your crypto as well. They are one of the first companies to let clients use their crypto other than a store of value. They currently use the following languages to develop all their programs and website: NGINX, HTML5, PostgreSQL, CSS 3, React, React Native, Amazon EC2, Typescript and Javascript. Using these languages helps give the customer an easy way to navigate their website and give them the most up today information. These languages also help them develop and maintain the products the currently have.
+Blockfi is currently using cryptocurrencies to help their users earn interest, obtain loans and to buy, sell, or exchange your crypto as well. They are one of the first companies to let clients use their crypto other than a store of value. Blockfi also uses blockchain technology to run its products. This helps ther users have have a clear understanding on how the process works and keeps it simply. The other beenfit it has on its users is that it is relatively fast to get approved for there loan. The applicaion process takes around 5 to 10 mintes and then oonce approved funding happens within an hour or hour and half.  They currently use the following languages to develop all their programs and website: NGINX, HTML5, PostgreSQL, CSS 3, React, React Native, Amazon EC2, Typescript and Javascript. Using these languages helps give the customer an easy way to navigate their website and give them the most up today information. These languages also help them develop and maintain the products the currently have.
 ## Landscape:
 
 ### What domain of the financial industry is the company in?
@@ -36,7 +36,7 @@ Blockfi is currently using cryptocurrencies to help their users earn interest, o
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* Blockfi is developing products that you would normally see at a bank such as a savings account or a loan and has incorporated them into the crypto world. This only adds value to the crypto domain. These products let people know that there are more options on how to use there crypto. With these types of innovations they have made in the past 4 to 5 years it huge and in the next 5 to 10 years who knows what other products will be available. It is also promosing to see big companies support the crypto space as well.Tesla is a major company that has invested in Bitcoin, JPMorgan is making there own coin which is tied to the dollar but the trend is that it is becoming and everyday currency. With these compaines showing interest in crypto it should have a positive impact on the crypto world in the future. 
+* Blockfi is developing products that you would normally see at a bank such as a savings account or a loan and has incorporated them into the crypto world. This only adds value to the crypto domain. These products let people know that there are more options on how to use there crypto. With these types of innovations they have made in the past 4 to 5 years its huge and in the next 5 to 10 years who knows what other products will be available. It is also promosing to see big companies support the crypto space as well. Tesla is a major company that has invested in Bitcoin, JPMorgan is making there own coin which is tied to the dollar but the trend is that it is becoming and everyday currency. With these compaines showing interest in crypto it should have a positive impact on the crypto world in the future. 
 
 ### What are the major companies in this domain?
 
@@ -50,18 +50,18 @@ Blockfi is currently using cryptocurrencies to help their users earn interest, o
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* The main metric that companies in this industry use to measure success is how much funding they receive. Blockfi, Celcius and Hodlnanut are the top companies is this area. They all have similar products with competitive interest rates. What set these companies apart is what innovations they will come up with next. The funding from different investors will help them create more products to set themselves apart. Blockfi has recieved a the most funding out of its competitors and is looking to release a credit card product this will keep them one of the top competitors in this domain.
+* The main metric that companies in this industry use to measure success is how much funding they receive. Blockfi, Celcius and Hodlnanut are the top companies is this area. They all have similar products with competitive interest rates. What set these companies apart is what innovations they will come up with next. The funding from different investors will help them create more products to set themselves apart. Blockfi has recieved a the most funding out of its competitors and is looking to release a credit card product, this will keep them be one of the top competitors in this domain.
 
 ### How is your company performing relative to competitors in the same domain?
 
-* Blockfi is out performing its coompetiors at this moment. They just recieved a large amount of funding recently which will help them stay ahead of there competitors on almost every level. The $350 million dollar round will help go to developing new produts such as the 1.5% back in bitcoin credit card, as well as hiring new employees. Developing new products to there clients will make Blockfi stand out compared to there competitors. If they want to release products fast they will need more people to join there team. They currently have around 100 to 250 empployees and there competitor Celsius has 11-50 employees accroding to crunchbase. Blockfi has a total of 508.7 million in funding compared to Celsius with $93.8 million in funding. With the funding they recieve and the new products that are set to come out as well and the growing number of employees they are out performing there competitors.
+* Blockfi is out performing its coompetiors at this moment. They just recieved a large amount of funding recently which will help them stay ahead of there competitors on almost every level. The $350 million dollar round will help go to developing new produts such as the 1.5% back in bitcoin credit card, as well as hiring new employees. Developing new products will make Blockfi stand out compared to there competitors. If they want to release products fast they will need more people to join there team. They currently have around 100 to 250 empployees, there competitor Celsius has 11-50 employees accroding to crunchbase. Blockfi has a total of 508.7 million in funding compared to Celsius with $93.8 million in funding. With the funding they recieve and the new products that are set to come out as well and the growing number of employees they are out performing there competitors.
 
 
 ## Recommendations 
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offer, or use your imagination!)
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* I think the company should focus on the lending side since there is more opportunity in my opinion. They could release a product that is a secured line of credit with a variable or fixed interest rate. People could use there crypto as collateral like normal but instead of getting a one time funded loan just keep it open for when they need. This could help so many people, just having that extra security option can be piece at mind. Banks do offer this but they look at FICO scores for approval. Since they do collateralized crypto loans I think this would be a good option as well. 
+* I think the company should focus on the lending side since there is more opportunity in my opinion. They could release a product that is a secured line of credit with a variable or fixed interest rate. People could use there crypto as collateral like normal but instead of getting a one time funded loan just keep it open for when they need. This could help  many people, just having that extra security option can be piece at mind. Banks do offer this but they look at FICO scores for approval. Since they do collateralized crypto loans I think this would be a good option as well. 
 
 ### Why do you think that offering this product or service would beneift the company?
 
@@ -69,8 +69,37 @@ Blockfi is currently using cryptocurrencies to help their users earn interest, o
 
 ### What technologies would this additional product or service utilize?
 
-* This product would utilize the crypto currency technology. The user will use the crypto they bought as collateral and given a line based on how much is up for collateral. It will be like the loan however have it be open and can be used whenever is needed. 
+* This product would utilize the crypto currency technology and blockchain technology. The user will use the crypto they bought as collateral and given a line based on how much is up for collateral. It will be like the loan however have it be open and can be used whenever is needed. The application process will be relly straight forward and they will get an approval in a short amount of time. The blockchain technology that blockfi currently uses helps there users understand and keeps the process simple. 
 
 ### Why are these technologies appropriate for your solution?
 
-* Crypto is important for this product because it is what drives the ability for Blockfi to lend without checking a FICO score.  
+* Crypto is important for this product because it is what drives the ability for Blockfi to lend without checking a FICO score.  Blockchain technology is appropriate for this becuase it keeps all the records in an immutable ledge but also makes a better experience for the customer. A person who is not sure how blockchian works does not need to to understand it to use blockfi, however once they see the quickness and simplicity of the application they will have a positive experience with not just blockfi but the thecnology they used to build the blockchain. 
+
+
+## Work Cited 
+
+
+BlockFi vs Celsius vs Hodlnaut | Interest Rates, Fee, Security and Risks | Coinmonks (medium.com)
+
+Four reasons why the DeFi Movement is just getting started - Blogs by Changpeng Zhao | ET BFSI (indiatimes.com)
+
+https://blockfi.com/ 
+
+BlockFi - BlockFi Tech Stack (stackshare.io) 
+
+https://www.owler.com/company/blockfi#fundinghistory 
+
+https://www.crunchbase.com/organization/blockfi-inc 
+
+https://markets.businessinsider.com/currencies/news/
+
+crypto-users-pass-100-million-boomers-gen-x-bitcoin-btc-ethereum-2021-2-1030122720#:~:text=More%20than%20100%20million%20people,according%20to%20two%20separate%20reports. 
+
+https://coincentral.com/blockfi-review/ https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with  new-350-million-series-d-funding/?sh=35b4901658a5
+
+ https://blockfi.com/the-future-of-crypto-is-in-simplicity 
+
+https://podcast.bitcoin.com/e775-Decentralized-Finance-with-Zac-Prince-of-BlockFi
+
+We Study Billionaires - The Investor's Podcast Network BTC: Bitcoin Lending & Borrowing w/ Blockfi's Zac Prine and Mark Yusko (Bitcoin Podcaast)
+
